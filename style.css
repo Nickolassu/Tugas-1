@@ -1,0 +1,35 @@
+header{
+    padding: 30px;
+    background-color: darkcyan;
+    text-align: center;
+}
+
+body{
+    background-color:white;
+}
+footer{
+    background-color: aqua;
+}
+.p-1{
+    color:#000000 ;
+    font-size:x-large;
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pro-size{
+    width: 20%;
+    height:auto;
+    margin-left: 40%;
+    margin-top: 3%;
+    border-radius: 550px;
+}
+.mg{
+    margin-top: 20px;
+}
+.m-3{
+    text-decoration: underline;
+    font-weight: bold;
+    margin-top: 3%;
+    margin-left: 3%;
+}
